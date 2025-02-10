@@ -13,27 +13,27 @@ Languages that I'm best at:
 
 ### Web development
 
-[![Web development](https://skillicons.dev/icons?i=css,html,php,js,ts,nodejs,react)](https://skillicons.dev)
+[![Web development](https://skillicons.dev/icons?i=css,html,php,js,ts,nodejs,react)]()
 
 ### Generic Languages
 
-[![Generic Languages](https://skillicons.dev/icons?i=cpp,cs,java,python,r)](https://skillicons.dev)
+[![Generic Languages](https://skillicons.dev/icons?i=cpp,cs,java,python,r)]()
 
 ### CMD
 
-[![CMD](https://skillicons.dev/icons?i=bash,docker,git)](https://skillicons.dev)
+[![CMD](https://skillicons.dev/icons?i=bash,docker,git)]()
 
 ### Database
 
-[![Database](https://skillicons.dev/icons?i=mongo,mysql,postgres)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=mongo,mysql,postgres)]()
 
 ### IDE and Code editors
 
-[![IDE and Code editors](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)
+[![IDE and Code editors](https://skillicons.dev/icons?i=idea,vscode)]()
 
 ### Other software
 
-[![Other software](https://skillicons.dev/icons?i=latex,postman)](https://skillicons.dev)
+[![Other software](https://skillicons.dev/icons?i=latex,postman)]()
 
 ## Stats
 
