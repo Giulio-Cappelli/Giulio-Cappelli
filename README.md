@@ -37,5 +37,5 @@ Languages that I'm best at:
 
 ## Stats
 
-<img height="180rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Giulio-Cappelli&show_icons=true&theme=dark&count_private=true&bg_color=0d1117"/>
-<img height="180rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giulio-Cappelli&layout=compact&langs_count-16&theme=dark&bg_color=0d1117"/>
+<img height="170rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Giulio-Cappelli&show_icons=true&theme=dark&count_private=true&bg_color=0d1117"/>
+<img height="170rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giulio-Cappelli&layout=compact&langs_count-16&theme=dark&bg_color=0d1117"/>
