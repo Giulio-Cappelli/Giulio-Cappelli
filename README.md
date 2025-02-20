@@ -23,7 +23,7 @@ Languages that I'm best at:
 
 [![CMD](https://skillicons.dev/icons?i=bash,docker,git)]()
 
-### Database
+### Databases
 
 [![Database](https://skillicons.dev/icons?i=mongo,mysql,postgres)]()
 
