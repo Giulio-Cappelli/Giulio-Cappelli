@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Giulio Cappelli</h1>
- 
+
 I'm a CS Student at UniTN in Trento (IT)
 
 Languages that I'm best at:
@@ -13,7 +13,7 @@ Languages that I'm best at:
 
 ### Web development
 
-[![Web development](https://skillicons.dev/icons?i=css,html,php,js,ts,nodejs,react)]()
+[![Web development](https://skillicons.dev/icons?i=css,html,php,js,ts,nodejs,react,nextjs)]()
 
 ### Generic Languages
 
