@@ -35,6 +35,9 @@ Languages that I'm best at:
 
 [![Other software](https://skillicons.dev/icons?i=latex,postman)]()
 
+### OS
+[![OS](https://skillicons.dev/icons?i=windows,apple,linux)]()
+
 ## Stats
 
 <div>
