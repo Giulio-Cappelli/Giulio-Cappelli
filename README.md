@@ -33,7 +33,7 @@ Languages that I'm best at:
 
 ### Other software
 
-[![Other software](https://skillicons.dev/icons?i=latex,postman)]()
+[![Other software](https://skillicons.dev/icons?i=latex,postman,arduino)]()
 
 ### OS
 [![OS](https://skillicons.dev/icons?i=windows,apple,linux)]()
