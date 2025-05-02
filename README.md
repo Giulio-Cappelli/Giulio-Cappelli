@@ -17,7 +17,7 @@ Languages that I'm best at:
 
 ### Generic Languages
 
-[![Generic Languages](https://skillicons.dev/icons?i=cpp,cs,java,python,r)]()
+[![Generic Languages](https://skillicons.dev/icons?i=cpp,cs,dotnet,java,python,r)]()
 
 ### CMD
 
@@ -36,7 +36,7 @@ Languages that I'm best at:
 [![Other software](https://skillicons.dev/icons?i=latex,postman,arduino)]()
 
 ### OS
-[![OS](https://skillicons.dev/icons?i=windows,apple,linux)]()
+[![OS](https://skillicons.dev/icons?i=windows,apple,linux,raspberrypi)]()
 
 ## Stats
 
