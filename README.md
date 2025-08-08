@@ -29,7 +29,7 @@ Languages that I'm best at:
 
 ### IDE and Code editors
 
-[![IDE and Code editors](https://skillicons.dev/icons?i=idea,vscode)]()
+[![IDE and Code editors](https://skillicons.dev/icons?i=idea,vscode,visualstudio)]()
 
 ### Other software
 
