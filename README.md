@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Giulio Cappelli</h1>
 
-I'm a CS Student at UniTN in Trento (IT)
+I'm a Software Developer based in Trento (IT)
 
 Languages that I'm best at:
 
@@ -13,30 +13,35 @@ Languages that I'm best at:
 
 ### Web development
 
-[![Web development](https://skillicons.dev/icons?i=css,html,php,js,ts,nodejs,react,nextjs)]()
+[![Web development](https://go-skill-icons.vercel.app/api/icons?i=css,html,php,js,ts,nodejs,react,nextjs)]()
 
 ### Generic Languages
 
-[![Generic Languages](https://skillicons.dev/icons?i=cpp,cs,dotnet,java,python,r)]()
+[![Generic Languages](https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,java,python,r)]()
 
 ### CMD
 
-[![CMD](https://skillicons.dev/icons?i=bash,docker,git)]()
+[![CMD](https://go-skill-icons.vercel.app/api/icons?i=bash,docker,git)]()
 
 ### Databases
 
-[![Database](https://skillicons.dev/icons?i=mongo,mysql,postgres)]()
+[![Database](https://go-skill-icons.vercel.app/api/icons?i=mongo,mysql,postgres,sqlserver)]()
 
 ### IDE and Code editors
 
-[![IDE and Code editors](https://skillicons.dev/icons?i=idea,vscode,visualstudio)]()
+[![IDE and Code editors](https://go-skill-icons.vercel.app/api/icons?i=idea,vscode,visualstudio)]()
+
+### Versioning software
+
+[![Versioning software](https://go-skill-icons.vercel.app/api/icons?i=git,github,azuredevops)]()
 
 ### Other software
 
-[![Other software](https://skillicons.dev/icons?i=latex,postman,arduino,figma)]()
+[![Other software](https://go-skill-icons.vercel.app/api/icons?i=postman,latex,arduino,figma)]()
 
 ### OS
-[![OS](https://skillicons.dev/icons?i=windows,apple,linux,raspberrypi)]()
+
+[![OS](https://go-skill-icons.vercel.app/api/icons?i=windows,apple,linux,raspberrypi)]()
 
 ## Stats
 
