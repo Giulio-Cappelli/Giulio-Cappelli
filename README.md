@@ -13,7 +13,7 @@ Languages that I'm best at:
 
 ### Web development
 
-[![Web development](https://go-skill-icons.vercel.app/api/icons?i=css,html,php,js,ts,nodejs,react,nextjs)]()
+[![Web development](https://go-skill-icons.vercel.app/api/icons?i=css,html,php,js,ts,nodejs,react,nextjs,blazor)]()
 
 ### Generic Languages
 
