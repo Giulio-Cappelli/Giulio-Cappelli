@@ -15,7 +15,7 @@ Languages that I'm best at:
 
 [![Web development](https://go-skill-icons.vercel.app/api/icons?i=css,html,php,js,ts,nodejs,react,nextjs,blazor)]()
 
-### Generic Languages
+### Gerneral purpose Languages
 
 [![Generic Languages](https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,java,python,r)]()
 
@@ -37,7 +37,7 @@ Languages that I'm best at:
 
 ### Other software
 
-[![Other software](https://go-skill-icons.vercel.app/api/icons?i=postman,latex,arduino,figma)]()
+[![Other software](https://go-skill-icons.vercel.app/api/icons?i=postman,latex,markdown,arduino,figma)]()
 
 ### OS
 
