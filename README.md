@@ -4,6 +4,7 @@ I'm a Software Developer based in Trento (IT)
 
 Languages that I'm best at:
 
+- C#
 - Java
 - Javascript
 - Typescript
